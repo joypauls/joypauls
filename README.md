@@ -1,5 +1,7 @@
-## ✨ Hi there! ✨
+## 👋 Hi there!
 
-- 👋 I'm Joy
-- 🔭 I’m currently working at [C.H. Robinson](https://www.chrobinson.com) as a Data Scientist
-- 😄 Pronouns are [they/them](http://pronoun.is/they/)
+- I'm Joy
+- Currently working at [C.H. Robinson](https://www.chrobinson.com) as a Data Scientist
+- Pronouns are [they/them](http://pronoun.is/they/)
+
+**[More about me and contact info!](joypauls.dev)**
